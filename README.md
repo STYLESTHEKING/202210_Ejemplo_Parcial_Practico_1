@@ -1,4 +1,4 @@
-# Ejemplo Parcial Práctico 1
+# Alan Snade Fonseca Garcia
 
 ## Instrucciones
 
